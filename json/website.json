@@ -1,0 +1,23 @@
+{
+  "salutation":{
+    "IT":{
+      "S":{
+        "M":"Caro",
+        "F":"Cara"
+      },
+      "P":{
+        "M":"Cari",
+        "F":"Care"
+      }
+    },
+    "EN":"Dear"
+  },	   
+  "message": {
+      "IT": {
+        "S":"messages/ita_sing.txt",
+        "P":"messages/ita_plur.txt"
+      },
+      "EN": "messages/eng.txt"
+  },
+  "subject": "Chiara e Giuseppe - 22 giugno 2019"
+}
