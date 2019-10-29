@@ -33,7 +33,8 @@ an encrypted connection.
 * [json](https://docs.python.org/2/library/json.html) is used to read the JSON file containing the information on which 
 text we want to use for each type of guest. 
 * [pandas](https://pandas.pydata.org/) is used to read the csv file into a DataFrame. 
-
+* [os](https://docs.python.org/3/library/os.html) provides the intergace to the operating system, which in this case 
+I use to check the existence of files. 
 
 ## How to run the script 
 
